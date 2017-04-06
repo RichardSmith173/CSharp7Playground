@@ -1,0 +1,6 @@
+D:\Richard\Documents\Source Control\CSharp7Playground\PatternMatching\bin\Debug\PatternMatching.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\PatternMatching\bin\Debug\PatternMatching.pdb
+D:\Richard\Documents\Source Control\CSharp7Playground\PatternMatching\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\PatternMatching\obj\Debug\PatternMatching.csprojResolveAssemblyReference.cache
+D:\Richard\Documents\Source Control\CSharp7Playground\PatternMatching\obj\Debug\PatternMatching.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\PatternMatching\obj\Debug\PatternMatching.pdb

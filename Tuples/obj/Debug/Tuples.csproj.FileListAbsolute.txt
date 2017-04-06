@@ -1,0 +1,6 @@
+D:\Richard\Documents\Source Control\CSharp7Playground\Tuples\bin\Debug\Tuples.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\Tuples\bin\Debug\Tuples.pdb
+D:\Richard\Documents\Source Control\CSharp7Playground\Tuples\bin\Debug\System.ValueTuple.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\Tuples\obj\Debug\Tuples.csprojResolveAssemblyReference.cache
+D:\Richard\Documents\Source Control\CSharp7Playground\Tuples\obj\Debug\Tuples.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\Tuples\obj\Debug\Tuples.pdb
