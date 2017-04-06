@@ -1,0 +1,6 @@
+D:\Richard\Documents\Source Control\CSharp7Playground\OutVariables\obj\Debug\OutVariables.csprojResolveAssemblyReference.cache
+D:\Richard\Documents\Source Control\CSharp7Playground\OutVariables\bin\Debug\OutVariables.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\OutVariables\bin\Debug\OutVariables.pdb
+D:\Richard\Documents\Source Control\CSharp7Playground\OutVariables\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\OutVariables\obj\Debug\OutVariables.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\OutVariables\obj\Debug\OutVariables.pdb
