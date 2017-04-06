@@ -1,0 +1,6 @@
+D:\Richard\Documents\Source Control\CSharp7Playground\LocalFunctions\bin\Debug\LocalFunctions.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\LocalFunctions\bin\Debug\LocalFunctions.pdb
+D:\Richard\Documents\Source Control\CSharp7Playground\LocalFunctions\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\LocalFunctions\obj\Debug\LocalFunctions.csprojResolveAssemblyReference.cache
+D:\Richard\Documents\Source Control\CSharp7Playground\LocalFunctions\obj\Debug\LocalFunctions.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\LocalFunctions\obj\Debug\LocalFunctions.pdb

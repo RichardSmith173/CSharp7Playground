@@ -1,0 +1,6 @@
+D:\Richard\Documents\Source Control\CSharp7Playground\LiteralCharacter\bin\Debug\LiteralCharacter.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\LiteralCharacter\bin\Debug\LiteralCharacter.pdb
+D:\Richard\Documents\Source Control\CSharp7Playground\LiteralCharacter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\LiteralCharacter\obj\Debug\LiteralCharacter.csprojResolveAssemblyReference.cache
+D:\Richard\Documents\Source Control\CSharp7Playground\LiteralCharacter\obj\Debug\LiteralCharacter.dll
+D:\Richard\Documents\Source Control\CSharp7Playground\LiteralCharacter\obj\Debug\LiteralCharacter.pdb
