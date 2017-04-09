@@ -33,7 +33,7 @@ namespace LiteralCharacter
         public void ReturnCharacterSeparatedNumberUsesExtension()
         {
             var separator = new CharacterSeparators();
-            var result = separator.ReturnLargeNumberInNiceFormatUsingExtension(123456789);
+            var result = separator.ReturnLargeNumberInBadFormatUsingExtension(123456789);
 
             Assert.AreEqual(123_456_789, result);
             Assert.IsInstanceOfType(result, typeof(long));
